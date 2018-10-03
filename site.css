@@ -1,4 +1,11 @@
 html {
-  background: linear-gradient(rgba(60, 109, 255, 0.2),rgba(60, 109, 255, 0.05)); /* gradient blue */
+  background: linear-gradient(rgba(60, 109, 255, 0.2), rgba(60, 109, 255, 0.05));
+  /* gradient blue */
   color: black;
+}
+
+div.container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 70em;
 }
